@@ -30,9 +30,9 @@ namespace LINQ
             ////Console.WriteLine(result);
             #endregion
             #region Q5 5. Check if the ID list contains 9
-            //int[] ids = { 3, 9, 13, 18 };
-            //var result = ids.Contains(9);
-            //Console.WriteLine(result);
+            ////int[] ids = { 3, 9, 13, 18 };
+            ////var result = ids.Contains(9);
+            ////Console.WriteLine(result);
 
             #endregion
             #region Q6 Group all products by Category and print each group with its  product count.
