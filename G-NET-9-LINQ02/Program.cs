@@ -20,7 +20,7 @@ namespace LINQ
             ////var result = ProductList.OrderByDescending(P => P.UnitPrice).Take(3);
             #endregion
             #region Q2 show page 2 of products, with page size = 5
-            // var result = ProductList.Skip(5).Take(5);
+            //// var result = ProductList.Skip(5).Take(5);
             #endregion
             #region Q3 Take products from the list as long as Their UnitPrice is less than $25(list is ordered by price).
             // var result =ProductList.OrderBy(P =>P.UnitPrice).TakeWhile(P=>P.UnitPrice<25);
