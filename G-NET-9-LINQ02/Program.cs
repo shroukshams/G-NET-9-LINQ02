@@ -107,11 +107,11 @@ namespace LINQ
 
             #endregion
             #region Q17 Try to get the first product with a price > $500. it returns null   instead of throwing.
-            //var result = ProductList.FirstOrDefault(P => P.UnitPrice > 500);
-            //if (result != null)
-            //{
-            //    Console.WriteLine($"First product over $500: {result.ProductName} at ${result.UnitPrice}");
-            //}
+            ////var result = ProductList.FirstOrDefault(P => P.UnitPrice > 500);
+            ////if (result != null)
+            ////{
+            ////    Console.WriteLine($"First product over $500: {result.ProductName} at ${result.UnitPrice}");
+            ////}
 
             #endregion
             #region Q18 Generate a multiplication table row for 7
