@@ -17,7 +17,7 @@ namespace LINQ
         {
 
             #region 1. Get top 3 most expensive products
-            //var result = ProductList.OrderByDescending(P => P.UnitPrice).Take(3);
+            ////var result = ProductList.OrderByDescending(P => P.UnitPrice).Take(3);
             #endregion
             #region Q2 show page 2 of products, with page size = 5
             // var result = ProductList.Skip(5).Take(5);
