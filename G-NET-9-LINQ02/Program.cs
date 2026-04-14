@@ -63,8 +63,8 @@ namespace LINQ
             ////             };
             #endregion
             #region  10 10. Calculate the total number of units in stock across all products
-            //var result = ProductList.Sum(P => P.UnitsInStock);
-            //Console.WriteLine(result);
+            ////var result = ProductList.Sum(P => P.UnitsInStock);
+            ////Console.WriteLine(result);
 
             #endregion
             #region  Q11 Find the CHEAPEST and MOST EXPENSIVE product prices
