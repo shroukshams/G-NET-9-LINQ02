@@ -26,8 +26,8 @@ namespace LINQ
             //// var result =ProductList.OrderBy(P =>P.UnitPrice).TakeWhile(P=>P.UnitPrice<25);
             #endregion
             #region Q4  Check if ALL products in the "Seafood" category are in stock
-            //var result = ProductList.Where(P => P.Category == "Seafood").All(P => P.UnitsInStock > 0);
-            //Console.WriteLine(result);
+            ////var result = ProductList.Where(P => P.Category == "Seafood").All(P => P.UnitsInStock > 0);
+            ////Console.WriteLine(result);
             #endregion
             #region Q5 5. Check if the ID list contains 9
             //int[] ids = { 3, 9, 13, 18 };
