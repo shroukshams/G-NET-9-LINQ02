@@ -99,11 +99,11 @@ namespace LINQ
             ////}
             #endregion
             #region  Q16 Get the first product whose price is greater than $50.
-            //var result = ProductList.FirstOrDefault(P => P.UnitPrice > 50);
-            //if (result != null)
-            //{
-            //    Console.WriteLine($"First product over $50: {result.ProductName} at ${result.UnitPrice}");
-            //}
+            ////var result = ProductList.FirstOrDefault(P => P.UnitPrice > 50);
+            ////if (result != null)
+            ////{
+            ////    Console.WriteLine($"First product over $50: {result.ProductName} at ${result.UnitPrice}");
+            ////}
 
             #endregion
             #region Q17 Try to get the first product with a price > $500. it returns null   instead of throwing.
