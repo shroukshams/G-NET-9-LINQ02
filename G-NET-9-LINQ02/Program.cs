@@ -41,8 +41,8 @@ namespace LINQ
             #endregion
             #region  Q7. Group products by Category and project only product names per group
 
-            //        var result = ProductList.GroupBy(P => P.Category)
-            //.SelectMany(g => g.Select(p => new { Category = g.Key, ProductName = p.ProductName }));
+            ////        var result = ProductList.GroupBy(P => P.Category)
+            ////.SelectMany(g => g.Select(p => new { Category = g.Key, ProductName = p.ProductName }));
 
 
             #endregion
