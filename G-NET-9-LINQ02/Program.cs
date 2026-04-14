@@ -128,14 +128,14 @@ namespace LINQ
 
             #endregion
             #region Q21 Pair each product with a customer (by position) and produce  a string "ProductName sold to CompanyName".
-            //var result = ProductList.Zip(CustomerList, (p, c) => $"{p.ProductName} sold to {c.CompanyName}");
+        //    //var result = ProductList.Zip(CustomerList, (p, c) => $"{p.ProductName} sold to {c.CompanyName}");
 
-            #endregion
+        //    #endregion
 
 
-            // For Print
-            foreach (var item in result)
-                Console.WriteLine(item);
-        }
+        //    // For Print
+        //    foreach (var item in result)
+        //        Console.WriteLine(item);
+        //}
     }
 }
