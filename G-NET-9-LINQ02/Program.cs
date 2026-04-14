@@ -73,7 +73,7 @@ namespace LINQ
             ////Console.WriteLine($"Cheapest: {minPrice}, Most Expensive: {maxPrice}");
             #endregion
             #region  Q12 Get a distinct list of all product categories
-            //var result = ProductList.Select(P => P.Category).Distinct();
+            ////var result = ProductList.Select(P => P.Category).Distinct();
             #endregion
             # region Q13 find product IDs that are in setA but NOT in setB
             int[] setA = { 1, 3, 5, 7, 9, 11, 13 };
