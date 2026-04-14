@@ -123,8 +123,8 @@ namespace LINQ
 
             #endregion
             #region Q20 Concatenate the first 3 product names with the first 3 customer company names into a single sequence.
-            //var result = ProductList.Select(p => p.ProductName).Take(3)
-            //    .Concat(CustomerList.Select(c => c.CompanyName).Take(3));
+            ////var result = ProductList.Select(p => p.ProductName).Take(3)
+            ////    .Concat(CustomerList.Select(c => c.CompanyName).Take(3));
 
             #endregion
             #region Q21 Pair each product with a customer (by position) and produce  a string "ProductName sold to CompanyName".
