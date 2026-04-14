@@ -47,9 +47,9 @@ namespace LINQ
 
             #endregion
             #region Q8 Find all categories that have MORE THAN 3 products
-            //var result = ProductList.GroupBy(P => P.Category)
-            //    .Where(g => g.Count() > 3)
-            //    .Select(g => g.Key);
+            ////var result = ProductList.GroupBy(P => P.Category)
+            ////    .Where(g => g.Count() > 3)
+            ////    .Select(g => g.Key);
 
             #endregion
             #region Q9 9. Using QUERY SYNTAX, group customers by Country, and for each  group select { Country, Count, TotalOrderValue }.
