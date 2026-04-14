@@ -36,8 +36,8 @@ namespace LINQ
 
             #endregion
             #region Q6 Group all products by Category and print each group with its  product count.
-            //var result = ProductList.GroupBy(P => P.Category)
-            //    .Select(g => new { Category = g.Key, Count = g.Count() });
+            ////var result = ProductList.GroupBy(P => P.Category)
+            ////    .Select(g => new { Category = g.Key, Count = g.Count() });
             #endregion
             #region  Q7. Group products by Category and project only product names per group
 
