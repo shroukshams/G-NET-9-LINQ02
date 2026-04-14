@@ -68,9 +68,9 @@ namespace LINQ
 
             #endregion
             #region  Q11 Find the CHEAPEST and MOST EXPENSIVE product prices
-            //var minPrice = ProductList.Min(P => P.UnitPrice);
-            //var maxPrice = ProductList.Max(P => P.UnitPrice);
-            //Console.WriteLine($"Cheapest: {minPrice}, Most Expensive: {maxPrice}");
+            ////var minPrice = ProductList.Min(P => P.UnitPrice);
+            ////var maxPrice = ProductList.Max(P => P.UnitPrice);
+            ////Console.WriteLine($"Cheapest: {minPrice}, Most Expensive: {maxPrice}");
             #endregion
             #region  Q12 Get a distinct list of all product categories
             //var result = ProductList.Select(P => P.Category).Distinct();
