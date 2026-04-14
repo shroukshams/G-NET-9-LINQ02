@@ -119,7 +119,7 @@ namespace LINQ
 
             #endregion
             #region Q19 Generate even numbers between 1 and 30.
-            //var result = Enumerable.Range(1, 30).Where(i => i % 2 == 0);
+            ////var result = Enumerable.Range(1, 30).Where(i => i % 2 == 0);
 
             #endregion
             #region Q20 Concatenate the first 3 product names with the first 3 customer company names into a single sequence.
